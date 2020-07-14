@@ -1,8 +1,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Requirements
+###Requirements
+
 ###Node Js (npm) & Visual Studio Code
+
 -Guide for Node js (npm) - https://docs.npmjs.com/downloading-and-installing-node-js-and-Guide
 
 -Guide for Visual Studio Code - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
