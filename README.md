@@ -4,28 +4,38 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##Requirements
 ###Node Js (npm) & Visual Studio Code
 -Guide for Node js (npm) - https://docs.npmjs.com/downloading-and-installing-node-js-and-Guide
+
 -Guide for Visual Studio Code - https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
+
 -Guide for installing Node js in Visual Studio Code
 
 #### Installing Java, Eclipse 
 -Guide for JDK - https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-microsoft-windows-platforms.htm#JSJIG-GUID-A7E27B90-A28D-4237-9383-A58B416071CA
+
 -Guide for Eclipse -https://www.tutorialspoint.com/eclipse/eclipse_installation.htm
 
 #### Troubleshooting Installations
 
 - Node JS and NPM 
   - https://docs.npmjs.com/common-errors
+  
   - https://docs.npmjs.com/getting-started/troubleshooting
+  
 - Visual Studio Code
+
   - https://code.visualstudio.com/docs/supporting/errors
+  
   - https://code.visualstudio.com/docs/supporting/FAQ
   
 
 ## For Running Adderss-Book-app
 
 In the project directory, you can run:
+
 -open cmd
+
 -install node moudeles using command : npm install
+
 -Run npm start
 
 ### `npm start`
